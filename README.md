@@ -42,11 +42,4 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini:
    
 3. Buka URL lokal yang diberikan di browser Anda untuk berinteraksi dengan dashboard.
 
-### Struktur Proyek
-.
-├── dashboard               # Aplikasi utama dashboard
-├── data                    # Dataset untuk distribusi pesanan
-├── analysis-ecommerce.ipynb # hasil analisis dataset
-├── requirements.txt        # Dependensi Python
-└── README.md               # Dokumentasi proyek
 
